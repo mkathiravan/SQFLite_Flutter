@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+SQLite in Flutter with the sqflite package for storing application data locally. SQLite has been around since 2000 and is a popular choice for embedding databases within local apps. For the example project, we’ll build a very simple “TODO” app that can create, update, and delete TODO items from a basic interface.
+
+SQLite provides a convenient industry-standard way of persisting data locally within an application. This example shows how to implement basic CRUD operations for creating and manipulating simple records in a SQLite database.
